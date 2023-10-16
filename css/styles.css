@@ -76,14 +76,14 @@ body {
   border: 1px solid #61122f;
 }
 
-/* Home Page */
+/******* Home Page **********/
 #main-content.container .jumbotron {
   box-shadow: 0px 0px 50px #3f0c1d;
   border: 2px solid #3f0c1f;
 }
 /********** Large devices only **********/
 @media (min-width: 1200px) {
-  /* Home Page */
+  /******** Home Page ********/
   #main-content.container .jumbotron {
     background: url("/images/jumbotron_1200.jpg");
     height: 675px;
